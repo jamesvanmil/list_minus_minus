@@ -1,0 +1,9 @@
+In Sierra:
+	Change record view properties to display the record type that you're expecting (e.g., bib, item, order)
+	Edit record view properties to View or Edit a bib record
+	Initialize a list and view that list
+Save list of record numbers as list.txt, in the script folder
+Start the script
+Run the script with Win+Q (exit with Escape)
+Select the index label (e.g., "." for record number)
+Wait forever...

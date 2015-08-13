@@ -5,7 +5,7 @@
 
 ### Then:
 1. Save list of record numbers as list.txt, in the script folder
-1. Start the script
+1. Start the script (double-click *add_to_list.ahk*)
 1. Run the script with Control+Q (exit with Escape)
 1. Select the index label (e.g., "." for record number)
 1. Wait forever...
